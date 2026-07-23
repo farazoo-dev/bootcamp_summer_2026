@@ -20,6 +20,7 @@ nav a{
     color: white;
     text-decoration: none;
 }
+
 .banner{
     display: block;
     margin: 20px auto;
@@ -30,11 +31,7 @@ nav a{
     border: 2px solid #003366;
 
 }
-h1{
-    text-align: center;
-    color: darkblue;
 
-}
 #about{
     padding: 30px;
     text-align: center;
@@ -55,4 +52,28 @@ h1{
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+.headingt{
+   text-align: center;
+   color: darkblue;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+    font-size: 25px;
+}
+.player-card{
+    background-color: white;
+    border: 2px solid navy;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    height: auto;
+}
+.summary-card p{
+    color: navy;
+    font-size: 16px;
+
 }
